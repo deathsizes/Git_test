@@ -4,6 +4,6 @@ target 'Git_Test' do
 
 
 pod 'MBProgressHUD'
-
+pod 'MJRefresh'
 
 end

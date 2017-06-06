@@ -8,6 +8,7 @@
 
 #import "ViewController.h"
 #import <MBProgressHUD.h>
+#import <MJRefresh.h>
 
 @interface ViewController ()
 
@@ -22,6 +23,7 @@
     self.view.backgroundColor = [UIColor whiteColor];
     
     [MBProgressHUD showHUDAddedTo:self.view animated:YES];
+    
 }
 
 
